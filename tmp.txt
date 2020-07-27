@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x  4 yinglungliang  staff  128 Jul 27 19:17 ./
+drwxr-xr-x  7 yinglungliang  staff  224 Jul 27 19:16 ../
+drwxr-xr-x  9 yinglungliang  staff  288 Jul 27 19:16 .git/
+-rw-r--r--  1 yinglungliang  staff    0 Jul 27 19:17 tmp.txt
